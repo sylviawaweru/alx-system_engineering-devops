@@ -1,2 +1,2 @@
-#!bin/bash
-revstr=`echo $Hello,World | rev`
+#!/bin/bash
+echo welcome | rev
